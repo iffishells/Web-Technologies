@@ -22,6 +22,7 @@
         <div class='relative p-4'>
             <nav>
                 <a href="{{ route('home.index') }}">Home</a>
+                <a href="{{ route('guitars.index') }}">Guitar</a>
                 <a href="{{ route('home.about') }}">about</a>
                 <a href="{{ route('home.contact') }}">contact</a>
             </nav>
